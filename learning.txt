@@ -1,2 +1,2 @@
-I have learnt how to push locally to remotely
-I have also learnt how to create access token on github and how to use it locally
+["What I have learned from this course I have learnt how to push locally to remotely
+I have also learnt how to create access token on github and how to use it locally"]
